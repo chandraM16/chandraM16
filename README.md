@@ -4,11 +4,7 @@
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandram16&label=Profile%20views&color=0e75b6&style=flat" alt="chandram16" /> </p>
 
-- 🔭 I’m currently working on **My Portfolio**
-
-- 🌱 I’m currently learning **Type Script**
-
-- 👯 I’m looking to collaborate on **Any Full Stack Project**
+- 🔭 Working as SDE at Celoxis.
 
 - 💬 Ask me about **React, Javascript, CSS Library Like Bootstrap, Tailwind**
 
